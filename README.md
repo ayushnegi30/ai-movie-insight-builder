@@ -44,7 +44,7 @@ AI:
 Clone the repository:
 
 
-git clone https://github.com/YOUR_USERNAME/ai-movie-insight-builder.git
+git clone https://github.com/ayushnegi30/ai-movie-insight-builder.git
 
 cd ai-movie-insight-builder
 
